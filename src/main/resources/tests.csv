@@ -1,0 +1,10 @@
+ua,Що таке ООП? 1) Об'єктно-орієнтоване програмування; 2) Офісно-орієнтований працівник; 3) Оперативно опрацьований параграф; 4) Освітньо-операційний пост ,1,2,3,4,1
+ua,Що таке клас в Java? 1) Рівень складності програми; 2) Базовий елемент в ООП Java; 3) Назва змінної; 4) У Java такого поняття немає ,1,2,3,4,2
+ua,Як оголосити клас у Java? 1) class MyClass {}; 2) new class MyClass {}; 3) select * from class MyClass {}; 4) MyClass extends class {} ,1,2,3,4,1
+ua,Для чого потрібен оператор new? 1) Для створення нової змінної; 2) Для оголошення нового класу; 3) Для створення екземпляру класа; 4) Це антагоніст оператору old,1,2,3,4,3
+ua,Що означає перевизначення методів у Java? 1) Зміна поведінки метода класу відносно батьківського; 2)Зміна поведінки метода класу відносно дочірнього; 3) Декілька методів з однією назвою та різним набором параметрів; 4) Різні класи з однаковими методами ,1,2,3,4,1
+en,What is OOP? 1) Object-oriented programming; 2) Office-oriented parcel; 3) Operatively operational paragraph; 4) Office operational post,1,2,3,4,1
+en,What is a class in Java? 1) Level of complexity of the program; 2) Basic element in OOP Java; 3) Variable name; 4) There is no such concept in Java,1,2,3,4,2
+en,How to declare a class in Java? 1) class MyClass {}; 2) new class MyClass {}; 3) select * from class MyClass {}; 4) MyClass extends class {} ,1,2,3,4,1
+en,Why do you need an operator new? 1) To create a new variable; 2) To announce a new class; 3) To create an instance of the class; 4) It is the antagonist of the operator old,1,2,3,4,3
+en,What is method override in Java? 1) Changing the behavior of the class method relative to the parent; 2) Changing the behavior of the class method relative to the child; 3) Several methods with the same name and different set of parameters; 4) Different classes with the same methods,1,2,3,4,1
